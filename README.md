@@ -11,6 +11,14 @@ Welcome to my GitHub!!
 ## 🛠️ Stack Tools 🛠️
 <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white"/>  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=pycharm&logoColor=white"/>
 
+## 🛠️ Stack Tools 🛠️
+<details>
+<summary>
+  내가 배우고 싶은
+</summary>
+   아아ㅏ
+</details>
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun0903)](https://github.com/anuraghazra/github-readme-stats)
