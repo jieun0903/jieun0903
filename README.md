@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90render&animation=fadeIn)
-<img src="https://img.shields.io/badge/버튼에표시할내용-색상코드?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 ## Hi there 👋
+<img src="https://img.shields.io/badge/버튼에표시할내용-색상코드?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 
 <!--
 **jieun0903/jieun0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
