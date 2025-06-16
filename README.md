@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90render&animation=fadeIn)
 ## Hi there 👋
-<img src="https://img.shields.io/badge/C언어-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C언어-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>  
 <!--
 **jieun0903/jieun0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
