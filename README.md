@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90render&animation=fadeIn)
+## 🔗 Conect Me 🔗
+<img src="https://img.shields.io/badge/G-mail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+
 ## 📚 Tech Stack 📚
 <img src="https://img.shields.io/badge/C언어-A8B9CC?style=flat&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <!--
