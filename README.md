@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?           type=waving&color=B0E0E6&height=300&section=header&text=Jieun's_Github!&fontSize=90render&animation=fadeIn)
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?            type=waving&color=B0E0E6&height=300&section=header&text=Jieun's_Github!&fontSize=90render&animation=fadeIn)
   ## ✌🏻 About Me ✌🏻
   Welcome to my GitHub!!
 
