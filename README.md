@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=27334C&height=300&section=header&text=Jieun's%20Github!&fontSize=90render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=27334C&height=300&section=header&text=Jieun's%20Github!&fontSize=90&animation=fadeIn&textColor=FFFFFF)
 <div align="center">
   
   ## ✌🏻 About Me ✌🏻
