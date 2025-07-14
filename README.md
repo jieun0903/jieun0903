@@ -13,10 +13,9 @@
   ## 🛠️ Stack Tools 🛠️
   <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=CLion&logoColor=white"/>  <img src="https://img.shields.io/badge/Pycharm-  000000?style=flat&logo=pycharm&logoColor=white"/>
 
-
+</div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun0903)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **jieun0903/jieun0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
