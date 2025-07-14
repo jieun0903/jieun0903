@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jieun's%20Github!&fontSize=90render&animation=fadeIn)
 <div align="center">
   ## ✌🏻 About Me ✌🏻
-  Welcome to my GitHub!!
+Welcome to my GitHub!!
 
   ## 🔗 Conect Me 🔗
   <img src="https://img.shields.io/badge/pusan16591@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>  <a     href="https://www.instagram.com/tdic._.8/"><img src="https://img.shields.io/badge/@tdic._.8-FF0069?  style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/tdic._.8/"/></a>
