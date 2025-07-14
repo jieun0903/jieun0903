@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6AFDEF&height=300&section=header&text=Hello%20World!&fontSize=90render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6AFDEF&height=300&section=header&text=Jieun's@Github!&fontSize=90render&animation=fadeIn)
 ## ✌🏻 About Me ✌🏻
 Welcome to my GitHub!!
 
