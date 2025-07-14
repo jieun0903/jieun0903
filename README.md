@@ -14,6 +14,11 @@ Welcome to my GitHub!!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun0903)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=지은&hide_
+title=true&show_icons=dfdfd
+true&include_all_commits=true&disable_animations=true&theme=vue)
 <!--
 **jieun0903/jieun0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
