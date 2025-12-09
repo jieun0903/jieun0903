@@ -1,13 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-</div>
-        <div align="center">
-        <h3>안녕하세요, 백엔드 개발자를 꿈꾸는 김지은입니다</h3>
-        <p>탄탄한 기본기와 보안 중심 사고로 신뢰받는 백엔드 개발자로 성장하고 있습니다</p>
+<div align="center">
+<h3>안녕하세요, 백엔드 개발자를 꿈꾸는 김지은입니다</h3>
+        <p>🍀 탄탄한 기본기와 보안 중심 사고로 신뢰받는 백엔드 개발자로 성장하고 있습니다 🍀</p>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jieun0903&utm_content=line">
   <img src="https://render.gitanimals.org/lines/jieun0903" width="600" height="120"/>
 </a>
-  
-<div align="center">
   
   ## ✌🏻 About Me ✌🏻
   Welcom to my GitHub!
