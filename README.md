@@ -5,6 +5,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jieun0903&utm_content=line">
   <img src="https://render.gitanimals.org/lines/jieun0903" width="600" height="120"/>
 </a>
+<hr>
         
   ## 📚 Tech Stack 📚
   <img src="https://img.shields.io/badge/C언어-A8B9CC?style=flat&logo=C&logoColor=white"/>    <img src="https://img.shields.io/badge/Python-3776AB?  style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>  <img   src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS&logoColor=white"/>   <img src="https://img.shields.io/badge/JS-F7DF1E?  style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
