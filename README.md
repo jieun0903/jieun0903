@@ -15,7 +15,7 @@
 <br/><br/>
 
 ## 🙋‍♀️ About Me
-
+</div>
 ```
 🎓 보안과 서버 개발에 관심이 많은 개발자입니다
 💡 안전하고 효율적인 시스템 구축을 목표로 합니다
@@ -23,7 +23,7 @@
 ```
 
 <br/>
-
+<div align="center">
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/pusan16591@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pusan16591@gmail.com)
