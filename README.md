@@ -54,14 +54,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jieun0903&show_icons=true&theme=graywhite&hide_border=true&bg_color=f6f8fa)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun0903&layout=compact&theme=graywhite&hide_border=true&bg_color=f6f8fa)
-
-<br/><br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
