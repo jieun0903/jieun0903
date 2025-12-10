@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 안녕하세요, 백엔드 개발자를 꿈꾸는 김지은입니다
+# 안녕하세요, 백엔드 개발자를 꿈꾸는 김지은입니다 👋
 
-### 🍀 탄탄한 기본기와 보안 중심 사고로 신뢰받는 백엔드 개발자로 성장하고 있습니다 🍀
+### 탄탄한 기본기와 보안 중심 사고로 신뢰받는 백엔드 개발자로 성장하고 있습니다
 
 <br/>
 
@@ -13,13 +13,17 @@
 </a>
 
 <br/><br/>
-🙋‍♀️ About Me
+
+## 🙋‍♀️ About Me
+
+```
 🎓 보안과 서버 개발에 관심이 많은 개발자입니다
 💡 안전하고 효율적인 시스템 구축을 목표로 합니다
 🌱 꾸준한 학습과 성장을 추구합니다
+```
+
 <br/>
 
-<div align="center">
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/pusan16591@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pusan16591@gmail.com)
@@ -49,6 +53,14 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <br/>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jieun0903&show_icons=true&theme=graywhite&hide_border=true&bg_color=f6f8fa)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun0903&layout=compact&theme=graywhite&hide_border=true&bg_color=f6f8fa)
+
+<br/><br/>
 
 </div>
 
